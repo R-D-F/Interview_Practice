@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3,
+          37.5
+        ]
+      },
+      "properties": {
+        "TreeID": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9,
+          37.3
+        ]
+      },
+      "properties": {
+        "TreeID": "5"
+      }
+    }
+  ]
+}

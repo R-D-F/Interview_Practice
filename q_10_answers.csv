@@ -1,0 +1,4 @@
+ParkName,Latitude,Longitude,geometry
+Central Park,40.785091,-73.968285,POINT (-73.968285 40.785091)
+Millennium Park,41.882607,-87.623177,POINT (-87.623177 41.882607)
+Yellowstone National Park,44.427963,-110.588455,POINT (-110.588455 44.427963)

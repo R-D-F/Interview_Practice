@@ -1,0 +1,9 @@
+id,latitude,longitude,land_use
+1,37.7749,-122.4194,Residential
+2,34.0522,-118.2437,Commercial
+3,40.7128,-74.0060,Industrial
+4,36.7783,-119.4179,Residential
+5,,,-118.2437,Commercial
+6,47.6062,-122.3321,Residential
+7,51.5074,-0.1278,Industrial
+8,34.0522,-118.2437,Commercial
