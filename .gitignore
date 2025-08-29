@@ -2,3 +2,6 @@
 
 .venv/
 *.tif
+condcutors_by_circuit/
+output/
+*.zip
